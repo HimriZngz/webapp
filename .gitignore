@@ -1,0 +1,5 @@
+﻿#  排除pycharm创建的venv文件夹和.idea文件夹
+
+/.idea/
+
+
